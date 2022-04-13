@@ -72,3 +72,6 @@ const got = {
     },
   ],
 };
+
+
+module.exports = got;
